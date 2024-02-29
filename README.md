@@ -1,6 +1,6 @@
 # IHK-Karten
 
-### 1. Bei folgenden Anwendungen Oder Verfahren kommt es zum Einsatz von kryptografischen Hashfunktionen:
+### 1. Bei welchen Anwendungen Oder Verfahren kommt es zum Einsatz von kryptografischen Hashfunktionen ?
 
 <details>
   <summary>Antwort:</summary>
@@ -47,5 +47,23 @@ Methode zur Identifizierung und Implementierung von Sicherheitsmaßnahmen, entwi
   <summary>Antwort:</summary>
   
 Sichere Fernverwaltung und Kommunikation über unsichere Netzwerke, indem Daten verschlüsselt werden.
+
+</details>
+
+### 6. Was ist das Ziel einer Bedarfsanalyse?
+
+<details>
+  <summary>Antwort:</summary>
+  
+Ermittlung der Bedürfnisse und Anforderungen eines Marktes oder Unternehmens.
+
+</details>
+
+### 7. Was regelt eine EULA?
+
+<details>
+  <summary>Antwort:</summary>
+  
+End User License Agreement: Die Bedingungen, unter denen Software vom Endbenutzer genutzt werden darf.
 
 </details>
