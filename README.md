@@ -76,3 +76,12 @@ End User License Agreement: Die Bedingungen, unter denen Software vom Endbenutze
 Domain Name System: Zur Übersetzung von Domainnamen in IP-Adressen.
 
 </details>
+
+### 9. Was unterscheidet variable von fixen Kosten?
+
+<details>
+  <summary>Antwort:</summary>
+  
+Variable Kosten ändern sich mit der Produktion, fixe Kosten nicht.
+
+</details>
