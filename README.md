@@ -102,3 +102,13 @@ Koordination und Lenkung von Prozessen zur Verbesserung und Aufrechterhaltung de
 Plan (Planung), Do (Umsetzung), Check (Überprüfung), Act (Handlung).
 
 </details>
+
+### 12. Welche sind einige Hauptkriterien für die Qualität von Software?
+
+
+<details>
+  <summary>Antwort:</summary>
+  
+Funktionalität, Zuverlässigkeit, Benutzbarkeit, Effizienz, Änderbarkeit, Übertragbarkeit.
+
+</details>
