@@ -85,3 +85,12 @@ Domain Name System: Zur Übersetzung von Domainnamen in IP-Adressen.
 Variable Kosten ändern sich mit der Produktion, fixe Kosten nicht.
 
 </details>
+
+### 10. Was ist der Zweck von Qualitätsmanagementsystemen?
+
+<details>
+  <summary>Antwort:</summary>
+  
+Koordination und Lenkung von Prozessen zur Verbesserung und Aufrechterhaltung der Qualität.
+
+</details>
