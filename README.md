@@ -1,6 +1,6 @@
 # IHK-Karten
 
-### Bei folgenden Anwendungen oderVerfahren kommt es zum Einsatz von kryptografischen Hashfunktionen:
+### Bei folgenden Anwendungen oder Verfahren kommt es zum Einsatz von kryptografischen Hashfunktionen:
 
 <details>
   <summary>Antwort:</summary>
