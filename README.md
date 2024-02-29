@@ -67,3 +67,12 @@ Ermittlung der Bedürfnisse und Anforderungen eines Marktes oder Unternehmens.
 End User License Agreement: Die Bedingungen, unter denen Software vom Endbenutzer genutzt werden darf.
 
 </details>
+
+### 8. Wozu dient DNS?
+
+<details>
+  <summary>Antwort:</summary>
+  
+Domain Name System: Zur Übersetzung von Domainnamen in IP-Adressen.
+
+</details>
