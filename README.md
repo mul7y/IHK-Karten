@@ -1,12 +1,10 @@
 # IHK-Karten
 
-### 1. Bei folgenden Anwendungen oder Verfahren kommt es zum Einsatz von kryptografischen Hashfunktionen:
+### 1. Bei folgenden Anwendungen Oder Verfahren kommt es zum Einsatz von kryptografischen Hashfunktionen:
 
 <details>
   <summary>Antwort:</summary>
   
-Bei folgenden Anwendungen Oder Verfahren kommt es zum Einsatz von kryptografischen
-Hashfunktionen:
 - Integritätsprüfungen
 - Erzeugung von Prüfsummen
 - Erzeugung von Sitzungsschlüsseln
@@ -15,3 +13,5 @@ Hashfunktionen:
 - Speichern von Passwörtern
   
 </details>
+
+### 2. 
