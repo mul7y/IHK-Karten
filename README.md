@@ -31,3 +31,21 @@ Standard für das Informationssicherheits-Managementsystem (ISMS), der Anforderu
 Methode zur Identifizierung und Implementierung von Sicherheitsmaßnahmen, entwickelt vom Bundesamt für Sicherheit in der Informationstechnik (BSI)
   
 </details>
+
+### 4. Was macht eine Firewall?
+
+<details>
+  <summary>Antwort:</summary>
+  
+Überwacht und kontrolliert eingehenden und ausgehenden Netzwerkverkehr basierend auf Sicherheitsrichtlinien.
+  
+</details>
+
+### 5. Was ermöglicht SSH?
+
+<details>
+  <summary>Antwort:</summary>
+  
+Sichere Fernverwaltung und Kommunikation über unsichere Netzwerke, indem Daten verschlüsselt werden.
+
+</details>
