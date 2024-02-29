@@ -94,3 +94,11 @@ Variable Kosten ändern sich mit der Produktion, fixe Kosten nicht.
 Koordination und Lenkung von Prozessen zur Verbesserung und Aufrechterhaltung der Qualität.
 
 </details>
+
+### 11. Welche vier Phasen enthält der PDCA-Zyklus?
+<details>
+  <summary>Antwort:</summary>
+  
+Plan (Planung), Do (Umsetzung), Check (Überprüfung), Act (Handlung).
+
+</details>
